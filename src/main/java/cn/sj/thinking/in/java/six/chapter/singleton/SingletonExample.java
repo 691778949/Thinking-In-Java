@@ -11,7 +11,7 @@ class SingletonClass {
     public void f(){
         System.out.println("function f()");
     }
-    
+
 }
 public class SingletonExample{
 
